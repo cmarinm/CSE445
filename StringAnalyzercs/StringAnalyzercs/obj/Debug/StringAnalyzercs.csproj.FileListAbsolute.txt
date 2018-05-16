@@ -1,0 +1,7 @@
+C:\Users\Cesar\source\repos\StringAnalyzercs\StringAnalyzercs\bin\Debug\StringAnalyzercs.exe.config
+C:\Users\Cesar\source\repos\StringAnalyzercs\StringAnalyzercs\bin\Debug\StringAnalyzercs.exe
+C:\Users\Cesar\source\repos\StringAnalyzercs\StringAnalyzercs\bin\Debug\StringAnalyzercs.pdb
+C:\Users\Cesar\source\repos\StringAnalyzercs\StringAnalyzercs\obj\Debug\StringAnalyzercs.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\source\repos\StringAnalyzercs\StringAnalyzercs\obj\Debug\StringAnalyzercs.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\StringAnalyzercs\StringAnalyzercs\obj\Debug\StringAnalyzercs.exe
+C:\Users\Cesar\source\repos\StringAnalyzercs\StringAnalyzercs\obj\Debug\StringAnalyzercs.pdb

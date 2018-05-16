@@ -1,0 +1,7 @@
+C:\Users\Cesar\source\repos\loginPassService\loginPassService\bin\loginPassService.dll.config
+C:\Users\Cesar\source\repos\loginPassService\loginPassService\bin\loginPassService.dll
+C:\Users\Cesar\source\repos\loginPassService\loginPassService\bin\loginPassService.pdb
+C:\Users\Cesar\source\repos\loginPassService\loginPassService\obj\Debug\loginPassService.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\source\repos\loginPassService\loginPassService\obj\Debug\loginPassService.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\loginPassService\loginPassService\obj\Debug\loginPassService.dll
+C:\Users\Cesar\source\repos\loginPassService\loginPassService\obj\Debug\loginPassService.pdb

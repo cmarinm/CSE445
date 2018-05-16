@@ -1,0 +1,9 @@
+C:\Users\Cesar\source\repos\SolarService\SolarService\bin\SolarService.dll.config
+C:\Users\Cesar\source\repos\SolarService\SolarService\bin\SolarService.dll
+C:\Users\Cesar\source\repos\SolarService\SolarService\bin\SolarService.pdb
+C:\Users\Cesar\source\repos\SolarService\SolarService\bin\Newtonsoft.Json.dll
+C:\Users\Cesar\source\repos\SolarService\SolarService\bin\Newtonsoft.Json.xml
+C:\Users\Cesar\source\repos\SolarService\SolarService\obj\Debug\SolarService.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\source\repos\SolarService\SolarService\obj\Debug\SolarService.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\SolarService\SolarService\obj\Debug\SolarService.dll
+C:\Users\Cesar\source\repos\SolarService\SolarService\obj\Debug\SolarService.pdb

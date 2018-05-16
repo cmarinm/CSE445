@@ -1,0 +1,10 @@
+C:\Users\Cesar\source\repos\Browser\Browser\bin\Debug\Browser.exe.config
+C:\Users\Cesar\source\repos\Browser\Browser\bin\Debug\Browser.exe
+C:\Users\Cesar\source\repos\Browser\Browser\bin\Debug\Browser.pdb
+C:\Users\Cesar\source\repos\Browser\Browser\obj\Debug\Browser.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\source\repos\Browser\Browser\obj\Debug\Browser.Form1.resources
+C:\Users\Cesar\source\repos\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+C:\Users\Cesar\source\repos\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.Cache
+C:\Users\Cesar\source\repos\Browser\Browser\obj\Debug\Browser.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\Browser\Browser\obj\Debug\Browser.exe
+C:\Users\Cesar\source\repos\Browser\Browser\obj\Debug\Browser.pdb

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Hotels>
+
+  <Hotel buslines = "61C,61D,61B">
+    <Name>Hilton Phoenix Chandler </Name>
+    <Contact>
+      <Phone>4808997400 </Phone>
+      <Email>none </Email>
+    </Contact>
+    <Address>
+      <Number>2929 </Number>
+      <Street>West Frye Rd </Street>
+      <City>Chandler </City>
+      <Zip>85224 </Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel stars = "***" buslines = "62,48,30">
+    <Name>Residence Inn </Name>
+    <Contact>
+      <Phone>4809672300 </Phone>
+      <Email>none </Email>
+    </Contact>
+    <Address>
+      <Number>510 </Number>
+      <Street>South Forrest Ave </Street>
+      <City>Tempe </City>
+      <Zip>85281 </Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel stars = "***" buslines = "72,I10">
+    <Name>Moxy</Name>
+    <Contact>
+      <Phone>4809683451 </Phone>
+      <Email>none </Email>
+    </Contact>
+    <Address>
+      <Number>1333 </Number>
+      <Street>South Rural Road </Street>
+      <City>Tempe </City>
+      <Zip>85281 </Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel stars = "***" buslines = "65,66,I10">
+    <Name>University Inn </Name>
+    <Contact>
+      <Phone>4809667221 </Phone>
+      <Email>universityinnstaff@gmail.com </Email>
+    </Contact>
+    <Address>
+      <Number>901 </Number>
+      <Street>South Mill Ave </Street>
+      <City>Tempe </City>
+      <Zip>85281 </Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel stars = "***" buslines = "62,65,66">
+    <Name>Courtyard by Marriot </Name>
+    <Contact>
+      <Phone>4809662800 </Phone>
+      <Email>none </Email>
+    </Contact>
+    <Address>
+      <Number>601 </Number>
+      <Street>South Ash Ave </Street>
+      <City>Tempe </City>
+      <Zip>85281 </Zip>
+    </Address>
+  </Hotel>
+
+
+</Hotels>
+

@@ -1,0 +1,7 @@
+c:\users\cesar\source\repos\XMLService\XMLService\bin\XMLService.dll.config
+c:\users\cesar\source\repos\XMLService\XMLService\bin\XMLService.dll
+c:\users\cesar\source\repos\XMLService\XMLService\bin\XMLService.pdb
+c:\users\cesar\source\repos\XMLService\XMLService\obj\Debug\XMLService.csprojResolveAssemblyReference.cache
+c:\users\cesar\source\repos\XMLService\XMLService\obj\Debug\XMLService.csproj.CoreCompileInputs.cache
+c:\users\cesar\source\repos\XMLService\XMLService\obj\Debug\XMLService.dll
+c:\users\cesar\source\repos\XMLService\XMLService\obj\Debug\XMLService.pdb

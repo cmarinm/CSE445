@@ -1,0 +1,10 @@
+C:\Users\Cesar\source\repos\LoginApp\LoginApp\bin\LoginApp.dll.config
+C:\Users\Cesar\source\repos\LoginApp\LoginApp\bin\LoginApp.dll
+C:\Users\Cesar\source\repos\LoginApp\LoginApp\bin\LoginApp.pdb
+C:\Users\Cesar\source\repos\LoginApp\LoginApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cesar\source\repos\LoginApp\LoginApp\bin\Newtonsoft.Json.dll
+C:\Users\Cesar\source\repos\LoginApp\LoginApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cesar\source\repos\LoginApp\LoginApp\bin\Newtonsoft.Json.xml
+C:\Users\Cesar\source\repos\LoginApp\LoginApp\obj\Release\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\LoginApp\LoginApp\obj\Release\LoginApp.dll
+C:\Users\Cesar\source\repos\LoginApp\LoginApp\obj\Release\LoginApp.pdb

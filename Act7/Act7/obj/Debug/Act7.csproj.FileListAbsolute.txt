@@ -1,0 +1,7 @@
+C:\Users\Cesar\source\repos\Act7\Act7\bin\Act7.dll.config
+C:\Users\Cesar\source\repos\Act7\Act7\bin\Act7.dll
+C:\Users\Cesar\source\repos\Act7\Act7\bin\Act7.pdb
+C:\Users\Cesar\source\repos\Act7\Act7\obj\Debug\Act7.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\Act7\Act7\obj\Debug\Act7.dll
+C:\Users\Cesar\source\repos\Act7\Act7\obj\Debug\Act7.pdb
+C:\Users\Cesar\source\repos\Act7\Act7\obj\Debug\Act7.csprojResolveAssemblyReference.cache

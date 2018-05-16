@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Act7", "Act7\Act7.csproj", "{EE3A02AC-14A6-40C6-BFAE-E59AF4F2A2D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activ7client", "Activ7client\Activ7client.csproj", "{7F6C12AB-F616-4450-92E4-CE43CCA706AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE3A02AC-14A6-40C6-BFAE-E59AF4F2A2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3A02AC-14A6-40C6-BFAE-E59AF4F2A2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3A02AC-14A6-40C6-BFAE-E59AF4F2A2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3A02AC-14A6-40C6-BFAE-E59AF4F2A2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F6C12AB-F616-4450-92E4-CE43CCA706AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F6C12AB-F616-4450-92E4-CE43CCA706AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F6C12AB-F616-4450-92E4-CE43CCA706AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F6C12AB-F616-4450-92E4-CE43CCA706AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B6D0F5C-36BA-48F0-862C-46DB225ECC67}
+	EndGlobalSection
+EndGlobal

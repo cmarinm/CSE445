@@ -1,0 +1,9 @@
+c:\users\cesar\source\repos\LoginService\LoginService\bin\LoginService.dll.config
+c:\users\cesar\source\repos\LoginService\LoginService\bin\LoginService.dll
+c:\users\cesar\source\repos\LoginService\LoginService\bin\LoginService.pdb
+c:\users\cesar\source\repos\LoginService\LoginService\bin\Newtonsoft.Json.dll
+c:\users\cesar\source\repos\LoginService\LoginService\bin\Newtonsoft.Json.xml
+c:\users\cesar\source\repos\LoginService\LoginService\obj\Debug\LoginService.csproj.CoreCompileInputs.cache
+c:\users\cesar\source\repos\LoginService\LoginService\obj\Debug\LoginService.dll
+c:\users\cesar\source\repos\LoginService\LoginService\obj\Debug\LoginService.pdb
+C:\Users\Cesar\source\repos\LoginService\LoginService\obj\Debug\LoginService.csprojResolveAssemblyReference.cache

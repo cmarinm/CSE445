@@ -1,0 +1,10 @@
+C:\Users\Cesar\source\repos\loginPassService\loginAppClient\bin\Debug\loginAppClient.exe.config
+C:\Users\Cesar\source\repos\loginPassService\loginAppClient\bin\Debug\loginAppClient.exe
+C:\Users\Cesar\source\repos\loginPassService\loginAppClient\bin\Debug\loginAppClient.pdb
+C:\Users\Cesar\source\repos\loginPassService\loginAppClient\obj\Debug\loginAppClient.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\source\repos\loginPassService\loginAppClient\obj\Debug\loginAppClient.Form1.resources
+C:\Users\Cesar\source\repos\loginPassService\loginAppClient\obj\Debug\loginAppClient.Properties.Resources.resources
+C:\Users\Cesar\source\repos\loginPassService\loginAppClient\obj\Debug\loginAppClient.csproj.GenerateResource.Cache
+C:\Users\Cesar\source\repos\loginPassService\loginAppClient\obj\Debug\loginAppClient.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\loginPassService\loginAppClient\obj\Debug\loginAppClient.exe
+C:\Users\Cesar\source\repos\loginPassService\loginAppClient\obj\Debug\loginAppClient.pdb

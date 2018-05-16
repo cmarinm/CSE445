@@ -1,0 +1,9 @@
+c:\users\cesar\source\repos\XMLService\TryIt\bin\TryIt.dll.config
+c:\users\cesar\source\repos\XMLService\TryIt\bin\TryIt.dll
+c:\users\cesar\source\repos\XMLService\TryIt\bin\TryIt.pdb
+c:\users\cesar\source\repos\XMLService\TryIt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\cesar\source\repos\XMLService\TryIt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\cesar\source\repos\XMLService\TryIt\obj\Debug\TryIt.csprojResolveAssemblyReference.cache
+c:\users\cesar\source\repos\XMLService\TryIt\obj\Debug\TryIt.csproj.CoreCompileInputs.cache
+c:\users\cesar\source\repos\XMLService\TryIt\obj\Debug\TryIt.dll
+c:\users\cesar\source\repos\XMLService\TryIt\obj\Debug\TryIt.pdb

@@ -1,0 +1,7 @@
+C:\Users\Cesar\source\repos\SolarService\WindService\bin\WindService.dll.config
+C:\Users\Cesar\source\repos\SolarService\WindService\bin\WindService.dll
+C:\Users\Cesar\source\repos\SolarService\WindService\bin\WindService.pdb
+C:\Users\Cesar\source\repos\SolarService\WindService\obj\Debug\WindService.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\SolarService\WindService\obj\Debug\WindService.dll
+C:\Users\Cesar\source\repos\SolarService\WindService\obj\Debug\WindService.pdb
+C:\Users\Cesar\source\repos\SolarService\WindService\obj\Debug\WindService.csprojResolveAssemblyReference.cache

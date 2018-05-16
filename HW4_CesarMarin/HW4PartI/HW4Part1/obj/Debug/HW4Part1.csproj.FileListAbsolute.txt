@@ -1,0 +1,9 @@
+c:\users\cesar\source\repos\HW4Part1\HW4Part1\bin\HW4Part1.dll.config
+c:\users\cesar\source\repos\HW4Part1\HW4Part1\bin\HW4Part1.dll
+c:\users\cesar\source\repos\HW4Part1\HW4Part1\bin\HW4Part1.pdb
+c:\users\cesar\source\repos\HW4Part1\HW4Part1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\cesar\source\repos\HW4Part1\HW4Part1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\cesar\source\repos\HW4Part1\HW4Part1\obj\Debug\HW4Part1.csprojResolveAssemblyReference.cache
+c:\users\cesar\source\repos\HW4Part1\HW4Part1\obj\Debug\HW4Part1.csproj.CoreCompileInputs.cache
+c:\users\cesar\source\repos\HW4Part1\HW4Part1\obj\Debug\HW4Part1.dll
+c:\users\cesar\source\repos\HW4Part1\HW4Part1\obj\Debug\HW4Part1.pdb
